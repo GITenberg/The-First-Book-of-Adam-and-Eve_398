@@ -1,0 +1,28 @@
+_repo: The-First-Book-of-Adam-and-Eve_398
+_version: 0.0.1
+alternative_title: Bible. O. T. Apocryphal books. English
+creator:
+  author:
+    agent_name: Platt, Rutherford Hayes
+    alias: Platt, Rutherford
+    birthdate: 1894
+    deathdate: 1975
+    gutenberg_agent_id: '222'
+    url: http://www.gutenberg.org/2009/agents/222
+description: Pseudepigraph
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '1996-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '398'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Eve (Biblical figure)'
+- !lcsh 'Adam -- (Biblical figure)'
+- GITenberg
+title: The First Book of Adam and Eve
+url: http://www.gutenberg.org/ebooks/398
